@@ -1,0 +1,2 @@
+# JesseCoin
+Fun cryptocurrency project
